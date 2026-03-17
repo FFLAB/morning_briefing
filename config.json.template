@@ -1,0 +1,11 @@
+{
+  "_commento": "Rinomina questo file in config.json e compila tutti i campi",
+
+  "openweather_api_key": "QUI_LA_TUA_CHIAVE_OPENWEATHERMAP",
+
+  "_commento_email": "Usa un indirizzo Gmail. Per la password, crea una 'App Password' (non la tua password normale)",
+  "email_from": "tua_email@gmail.com",
+  "email_password": "QUI_APP_PASSWORD_GMAIL",
+  "email_to": "destinatario@email.com",
+  "smtp_server": "smtp.gmail.com",
+  "smtp_port": 587
